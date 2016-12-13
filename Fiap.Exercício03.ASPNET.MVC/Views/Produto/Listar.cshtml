@@ -1,0 +1,30 @@
+﻿@model List<Fiap.Exercício03.ASPNET.MVC.Models.Produto>
+@{
+    ViewBag.Title = "Listar";
+}
+
+<h2>Listar</h2>
+
+<table class="table table-striped">
+            <thead>
+                <tr>
+                    <th>Descricao</th>
+                    <th>Data de Cadastro</th>
+                    <th>Valor</th>
+                    <th>Nacional</th>
+                    <th></th>
+                </tr>
+            </thead>
+
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>@item.Descricao</td>
+                        <td>@item.DataCadastro</td>
+                        <td>@item.Valor</td>
+                        <td>@item.Nacional</td>
+                    </tr>
+                }                
+            </tbody>
+        </table>

@@ -1,0 +1,31 @@
+﻿@model Fiap.Exercício03.ASPNET.MVC.Models.Produto
+@{
+    ViewBag.Title = "Cadastro";
+}
+
+<h2>Cadastro de Produtos</h2>
+
+
+@using (Html.BeginForm())
+{
+    <div class="form-group">
+        @Html.LabelFor(p => p.Descricao)
+        @Html.TextBoxFor(p => p.Descricao)
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(p => p.DataCadastro)
+        @Html.TextBoxFor(p => p.DataCadastro)
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(p => p.Valor)
+        @Html.TextBoxFor(p => p.Valor)
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(p => p.Nacional)
+        @Html.TextBoxFor(p => p.Nacional)
+    </div>
+    <div class="form-group">
+        @Helper.Submit("Cadastrar", "btn btn-success")
+    </div>
+}
+

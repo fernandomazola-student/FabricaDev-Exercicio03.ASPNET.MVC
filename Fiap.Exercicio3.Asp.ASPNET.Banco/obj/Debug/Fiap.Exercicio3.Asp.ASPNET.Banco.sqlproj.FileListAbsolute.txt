@@ -1,0 +1,9 @@
+D:\Fiap.Exercício03.ASPNET.MVC\Fiap.Exercicio3.Asp.ASPNET.Banco\bin\Debug\Fiap.Exercicio3.Asp.ASPNET.Banco.dacpac
+D:\Fiap.Exercício03.ASPNET.MVC\Fiap.Exercicio3.Asp.ASPNET.Banco\bin\Debug\Fiap.Exercicio3.Asp.ASPNET.Banco.dll
+D:\Fiap.Exercício03.ASPNET.MVC\Fiap.Exercicio3.Asp.ASPNET.Banco\bin\Debug\Fiap.Exercicio3.Asp.ASPNET.Banco.pdb
+D:\Fiap.Exercício03.ASPNET.MVC\Fiap.Exercicio3.Asp.ASPNET.Banco\obj\Debug\Model.xml
+D:\Fiap.Exercício03.ASPNET.MVC\Fiap.Exercicio3.Asp.ASPNET.Banco\obj\Debug\refactor.xml
+D:\Fiap.Exercício03.ASPNET.MVC\Fiap.Exercicio3.Asp.ASPNET.Banco\obj\Debug\postdeploy.sql
+D:\Fiap.Exercício03.ASPNET.MVC\Fiap.Exercicio3.Asp.ASPNET.Banco\obj\Debug\predeploy.sql
+D:\Fiap.Exercício03.ASPNET.MVC\Fiap.Exercicio3.Asp.ASPNET.Banco\obj\Debug\Fiap.Exercicio3.Asp.ASPNET.Banco.dll
+D:\Fiap.Exercício03.ASPNET.MVC\Fiap.Exercicio3.Asp.ASPNET.Banco\obj\Debug\Fiap.Exercicio3.Asp.ASPNET.Banco.pdb
